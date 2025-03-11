@@ -16,7 +16,10 @@ I am a believer that computer science as a pure mathematical/philsophical discip
 - [Von Neumann Architecture eternalizes patterns of Fetch-Decode-Execute and I/O](https://web.mit.edu/sts.035/www/PDFs/edvac.pdf) in 1945.
 - [Claude Shannon formalizes Information Theory and practicalizes Boolean logic into electrical circuits](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) in 1948.
 
-These works are what I contend are the mathematical/philosophical/engineering kernel of computer science. Of course, every giant stands recursively on the shoulder of gianter giants so an argument can easily be made that the intellectual foundations go further back. I believe every idea in computer science can be traced back to three concepts: addresses (indirection), syntax (memory), and operators (instructions)
+These works are what I contend are the mathematical/philosophical/engineering kernel of computer science. Of course, every giant stands recursively on the shoulder of gianter giants so an argument can easily be made that the intellectual foundations go further back. I believe every idea in computer science can be traced back to three concepts: 
+1. addresses (indirection i.e. geolocation)
+2. syntax (memory i.e. delayed signal processing)
+3. operators (instructions i.e. deterministic transformation)
 
 <!--- Markdown commented out
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
