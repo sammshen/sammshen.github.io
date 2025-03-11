@@ -9,13 +9,13 @@ a. The statistical bridge between the empirical and the arithmetic in Random Var
 b. The Quantized, Stable, and Platonic Nature of Symbols and Language: an object is not its representation, the map is not the territory.
 
 c. Is Mathematics Invented or Discovered: The intrinsically empirical nature of mathematics. Mathematical Operators are precisely
-transformations in the real world and we generalize these observations in the mass of our brains with an anthropological architecture.
+transformations in the real world (logic is physics) and we generalize these observations in the mass of our brains with an anthropological architecture.
 
 d. The Bridge between Algebra and Geometry: Variables and Dimensionality, Change of Basis and Principal Component Analysis, How to navigate Data, World, and View space in Computer Graphics
 
 e. Scientific Instruments and Human Observability: Anthropological contortion of signals and contrived artifacts from data analysis (Machine Learning, Convolution, Visualization, Fourier Decomposition, Taylor Approximation)
 
-f. Precision versus Accuracy, Partitioning and Granularity, Attributions/Units (e.g. RGB versus HSV) and Dimensional Analysis
+f. Precision versus Accuracy, Partitioning and Granularity, Attributes/Units (e.g. RGB versus HSV) and Dimensional Analysis
 
 ***2. Experimental History of Alchemy***
 
