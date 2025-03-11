@@ -6,7 +6,7 @@ subtitle: I clearly need to learn web development.
 
 I am a current senior at the University of Chicago. I originally wanted to study pure mathematics and theoretical computer science but decided to pivot into systems programming and software development in Jan 2024 after a(n) (un)fortunate realization that I did not possess the raw intellectual power to make it in the world of mathematical academia.  
 
-Before entropy gets the best of me, I hope my sensory organs experience some cool signal combinations, that my neurons think some cool thoughts (downstream of experiences), and that my body makes some cool things (downstream of ideas)!
+Before entropy gets the best of me, I hope my sensory organs experience some cool signal combinations, that my neurons fire some cool thoughts (downstream of experiences), and that my limbs make some cool things (downstream of ideas)!
 
 ### Wacky Stuff
 I am a believer that computer science as a pure mathematical/philsophical discipline was already completed by 1950. Everything after that was purely for improved operability (e.g. Operating Systems, HCI, Programming Languages, Networking, Databases etc.), though obviously nevertheless super non-trivial (little old me wouldn't dare) and in fact responsible for the impact of computing on modern living. 
