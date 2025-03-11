@@ -19,7 +19,7 @@ I am a believer that computer science as a pure mathematical/philsophical discip
 These works are what I contend are the mathematical/philosophical/engineering kernel of computer science. Of course, every giant stands on the shoulders of gianter giants so an argument can easily be made that the intellectual foundations go further back. I believe every idea in computer science can be traced back to three concepts: 
 1. addresses (indirection i.e. geolocation)
 2. syntax (memory i.e. delayed signal processing)
-3. operators (instructions i.e. deterministic transformation)
+3. operators (instructions i.e. physical transformation)
 
 <!--- Markdown commented out
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
