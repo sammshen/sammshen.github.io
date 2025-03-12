@@ -4,7 +4,7 @@ title: About me
 subtitle: I clearly need to learn web development.
 ---
 
-I am a junior at the University of Chicago. I originally wanted to study pure mathematics and theoretical computer science but decided to pivot into systems programming and software development in Jan 2024 after a(n) (un)fortunate realization that I did not possess the raw intellectual power to make it in the world of mathematical academia.
+I am an undergraduate at the University of Chicago. I originally wanted to study pure mathematics and theoretical computer science but decided to pivot into systems programming and software development in Jan 2024 after a(n) (un)fortunate realization that I did not possess the raw intellectual power to make it in the world of mathematical academia.
 
 Before entropy gets the best of me, I hope my sensory organs feel some cool things, that my neurons fire some cool thoughts, and that my limbs build some cool stuff.
 
